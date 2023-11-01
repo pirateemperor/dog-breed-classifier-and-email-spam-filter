@@ -24,7 +24,7 @@ The project is organized into several Python scripts, each handling different as
 Ensure you have Python 3.x installed on your machine. Clone this repository, and install the required packages:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/pirateemperor/dog-breed-classifier-and-email-spam-filter.git
 cd <repository_directory>
 pip install -r requirements.txt
 ```
